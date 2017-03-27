@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 
-[about page](about.html)
+[about page](about)
