@@ -3,7 +3,7 @@ email: elli_mylonas@brown.edu
 description: > # this means to ignore newlines until "baseurl:"
   This site exists only on github, editing in teh repo
 baseurl: "/themes-test"
-url: "http://emylonas.github.com/io
+url: "http://emylonas.github.io"
 twitter_username: elli-m
 github_username:  emylonas
 
